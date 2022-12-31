@@ -1,5 +1,7 @@
 # Group Selected Objects To Collection By Types
 
+![Banner](https://blenderboi.com/gallery/GroupSelectedObjectsToCollectionByTypes/Banner.png)
+
 Group Selected Objects into Multiple Collection By Types. 
 
 ![Group Selected Objects To Collection By Types Menu](https://blenderboi.com/gallery/GroupSelectedObjectsToCollectionByTypes/GroupSelectedObjectsToCollectionByTypesMenu.png)
